@@ -5,7 +5,7 @@
 
   <h1>🧬 NeuroByte Society</h1>
   <strong>Vellore Institute of Technology (VIT) Bhopal</strong><br>
-  <i>Exploring the intersection of Life Sciences and Artificial Intelligence</i>
+  <i>Exploring the intersection of Bioinformatics and Artificial Intelligence</i>
 
   <br><br>
 
